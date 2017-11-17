@@ -1,0 +1,100 @@
+body {
+    background-color: #ff0a5b;
+}
+
+
+body:hover {
+    cursor: url('http://cur.cursors-4u.net/anime/ani-12/oth1126.png'), auto !important;
+}
+
+
+audio {
+	visibility: hidden;
+}
+
+.title {
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	padding: 100px 0;
+	border: solid yellow 3px;
+
+}
+
+.title:hover {
+	background-color: #fff23f;
+}	
+
+.enganacao {
+	font-family: 'Libre Barcode 39 Extended Text', cursive;
+	text-align: center;
+	line-height: 6rem;
+	font-size: 4rem;
+}
+
+.enganacao:hover {
+	background-color: #5efcff
+}
+
+.naruto1 {
+	background-image: url(http://www.jogalo.com/in/91613303cf.jpg);
+}
+
+.mensagens {
+	font-family: 'Press Start 2P', cursive;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.autor {
+	font-family: 'Codystar', cursive;
+	text-align: center;
+}
+
+.texto {
+	font-family: 'Gochi Hand', cursive;
+	text-align: center;
+}
+
+.fotos {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 256px;
+    width: 256px;
+}
+
+.peteco {
+		background-color: #51FF01FF;
+		border: 20px solid grey;
+}
+
+.peteco:hover {
+	background-color: #4B3CA1FF;
+}
+
+.marcus {
+		background-color: #FF0004FF;
+		border: 20px dashed white;
+}
+
+.marcus:hover {
+	background-color: #E69294FF;
+}
+
+.vilela {
+		background-color: #0800FFFF;
+		border: 20px dotted yellow;
+}
+
+.vilela:hover {
+	background-color: #437D3EFF;
+}
+
+.breno {
+		background-color: #FF7A05FF;
+		border: 20px solid pink;
+}
+
+.breno:hover {
+	background-color: #7D0036FF;
+}
