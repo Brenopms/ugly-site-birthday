@@ -27,8 +27,7 @@ audio {
 .enganacao {
 	font-family: 'Libre Barcode 39 Extended Text', cursive;
 	text-align: center;
-	line-height: 6rem;
-	font-size: 4rem;
+
 }
 
 .enganacao:hover {
