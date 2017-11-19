@@ -113,3 +113,12 @@ audio {
 .breno:hover {
 	background-color: #7D0036FF;
 }
+
+.doug {
+		background-color: #0099FF;
+		border: 20px solid brown;
+}
+
+.doug:hover {
+	background-color: red;
+}
